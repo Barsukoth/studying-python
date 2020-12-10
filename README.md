@@ -1,2 +1,2 @@
 # studying
-Studying at college, doing my homework
+Studying python at college, doing my homework
